@@ -1,0 +1,22 @@
+@import "fonts";
+
+body {
+  font-family: "Roboto";
+  background-image: url("@img/image.jpg");
+  background-size: cover;
+
+  span {
+    color: rgb(255, 0, 0);
+  }
+}
+
+@media (max-width: 768px) {
+  span {
+    font-size: 30px;
+  }
+}
+@media (max-width: 768px) {
+  body {
+    background-color: aqua;
+  }
+}
