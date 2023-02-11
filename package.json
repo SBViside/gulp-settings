@@ -1,6 +1,6 @@
 {
-  "name": "gulp-learning",
-  "version": "1.0.0",
+  "name": "resume",
+  "version": "0.0.1",
   "description": "",
   "main": "gulpfile.js",
   "type": "module",
@@ -10,7 +10,7 @@
     "zip": "gulp deployZIP --build",
     "svgsprite": "gulp svgsprite"
   },
-  "author": "",
+  "author": "Zhenya",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "latest",
